@@ -98,7 +98,7 @@ body.ss-bg-white {
  * ## links
  * ------------------------------------------------------------------- */
 a {
-    color      : #33998a;
+    color      : #c20013;
     transition : all 0.3s ease-in-out;
 }
 
@@ -2289,7 +2289,7 @@ input::-moz-focus-inner {
 
 .header__nav li:hover > a,
 .header__nav li:focus > a {
-    color : #ffffff;
+    color : #c20013;
 }
 
 .header__nav li:hover li,
@@ -2298,7 +2298,7 @@ input::-moz-focus-inner {
 }
 
 .header__nav li.current > a {
-    color : #ffffff;
+    color : #c20013;
 }
 
 .header__nav li ul {
