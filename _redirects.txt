@@ -1,4 +1,4 @@
-# Redirects from what the browser requests to what we serve
+# Redirects used on Netlify
 /index.html                                     /
 /page-contact.html                              /contacto
 /la-técnica-pomodoro.html                       /recursos/la-técnica-pomodoro

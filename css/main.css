@@ -418,7 +418,7 @@ ul.disc li::before {
     width          : 8px;
     height         : 8px;
     border-radius  : 50%;
-    background     : #33998a;
+    background     : #c20013;
     position       : absolute;
     left           : -16px;
     top            : 11px;
@@ -427,7 +427,7 @@ ul.disc li::before {
 
 dt {
     margin : 0;
-    color  : #33998a;
+    color  : #c20013;
 }
 
 dd {
@@ -897,7 +897,7 @@ textarea:-webkit-autofill:hover textarea:-webkit-autofill:focus,
 select:-webkit-autofill,
 select:-webkit-autofill:hover,
 select:-webkit-autofill:focus {
-    -webkit-text-fill-color : #33998a;
+    -webkit-text-fill-color : #c20013;
     transition              : background-color 5000s ease-in-out 0s;
 }
 
@@ -971,8 +971,8 @@ button.btn--primary:focus,
 input[type="submit"].btn--primary:focus,
 input[type="reset"].btn--primary:focus,
 input[type="button"].btn--primary:focus {
-    background   : #33998a;
-    border-color : #33998a;
+    background   : #c20013;
+    border-color : #c20013;
 }
 
 /* button modifiers
@@ -1173,7 +1173,7 @@ input::-moz-focus-inner {
 }
 
 .stats-tabs li a:hover {
-    color : #33998a;
+    color : #c20013;
 }
 
 .stats-tabs li a em {
@@ -1828,7 +1828,7 @@ input::-moz-focus-inner {
 
 .masonry .entry__meta a:hover,
 .masonry .entry__meta a:focus {
-    color : #33998a;
+    color : #c20013;
 }
 
 .masonry .entry__meta-cat a::after {
@@ -2463,7 +2463,7 @@ input::-moz-focus-inner {
 }
 
 .header__social .ss-facebook a::after {
-    background-image : url(../images/icons/social/icon-facebook.svg);
+    background-image : url(../images/icons/social/icon-email.svg);
 }
 
 .header__social .ss-twitter a::after {
@@ -2848,7 +2848,7 @@ body.search-is-visible {
 
 .search-trigger:focus,
 .search-trigger:hover {
-    color : #33998a;
+    color : #c20013;
 }
 
 .search-trigger svg {
@@ -3256,7 +3256,7 @@ body.search-is-visible {
 
 .entry__nav a:hover span,
 .entry__nav a:focus span {
-    color : #33998a;
+    color : #c20013;
 }
 
 .entry__prev,
