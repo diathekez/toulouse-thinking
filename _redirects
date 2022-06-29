@@ -1,0 +1,6 @@
+# Redirects used on Netlify
+/index.html               /
+/page-contact.html        /contacto
+/la-técnica-pomodoro.html /recursos/la-técnica-pomodoro
+/index.html#recursos      /recursos
+/libros.html    /reseñas/libros
