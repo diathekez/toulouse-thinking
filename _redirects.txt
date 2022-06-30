@@ -1,2 +1,6 @@
 # Redirects from what the browser requests to what we serve
 /index.html               /
+/page-contact.html        /contacto
+/la-técnica-pomodoro.html /recursos/la-técnica-pomodoro
+/libros.html    /reseñas/libros
+/404.html   /404

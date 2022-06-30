@@ -1,3 +1,9 @@
 .DS_Store
 Thumbs.db
 .vscode
+category.html
+styles.html
+single-audio.html
+single-gallery.html
+single-standard.html
+single-video.html
