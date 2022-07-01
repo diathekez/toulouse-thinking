@@ -95,7 +95,7 @@
             e.stopPropagation();
         });
             
-        searchField.attr({placeholder: 'Type Keywords', autocomplete: 'off'});
+        searchField.attr({placeholder: 'Escribe palabras claves', autocomplete: 'off'});
 
     };
 
