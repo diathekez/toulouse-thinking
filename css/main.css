@@ -2467,7 +2467,7 @@ input::-moz-focus-inner {
 }
 
 .header__social .ss-twitter a::after {
-    background-image : url(../images/icons/social/icon-twitter.svg);
+    background-image : url(../images/icons/social/icon-notion.svg);
 }
 
 .header__social .ss-dribbble a::after {
@@ -2475,7 +2475,7 @@ input::-moz-focus-inner {
 }
 
 .header__social .ss-behance a::after {
-    background-image : url(../images/icons/social/icon-behance.svg);
+    background-image : url(../images/icons/social/icon-spotify.svg);
 }
 
 .header__social .ss-instagram a::after {
