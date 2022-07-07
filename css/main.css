@@ -3608,3 +3608,7 @@ body.search-is-visible {
     opacity    : 1;
     visibility : visible;
 }
+#discord-widget {
+    width: 350px;
+    height: 500px;
+}
