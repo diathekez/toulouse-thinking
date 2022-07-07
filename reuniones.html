@@ -159,7 +159,7 @@
                     </div> <!-- end content__page-header -->
 
                     <p>
-                    Si deseas ponerte en contacto conmigo, escríbeme al correo electrónico a continuación o agrégame en Discord. También hay un formulario en la parte inferior.
+                        Veré si puedo organizar reuniones para estudiar o simplemente pasar el rato una vez que comience el próximo ciclo.
                     </p>
 
                     <div class="row">
@@ -185,9 +185,9 @@
                         </div>
                     </div>
 
-                    <h3 class="h2">Habla good. No te enviaré spam.</h3>
+                    <h3 class="h2">¿Vienes?</h3>
         
-                    <form name="toulouse-thinking" id="contactForm" method="POST" data-netlify="true" onSubmit="submit" action="/success" autocomplete="off">
+                    <form name="toulouse-thinking-reuniones" id="contactForm" method="POST" data-netlify="true" onSubmit="submit" action="/success" autocomplete="off">
                         <fieldset>
     
                             <div class="form-field">
@@ -197,9 +197,15 @@
                             <div class="form-field">
                                 <input name="email" id="email" class="full-width" placeholder="Email" value="" type="text">
                             </div>
-    
-                            <div class="message form-field">
-                                <textarea name="message" id="message" class="full-width" placeholder="Mensaje"></textarea>
+
+                            <div>
+                                <label for="sampleRecipientInput" name="Drop box">Reason for contacting</label>
+                                <div class="ss-custom-select">
+                                    <select class="full-width" id="sampleRecipientInput">
+                                        <option value="Si">Sí, estaré asistiendo.</option>
+                                        <option value="No">No podré asistir pero me gustaría.</option>
+                                    </select>
+                                </div>
                             </div>
     
                             <input name="submit" id="submit" class="btn btn--primary btn-wide btn--large full-width" value="Click here" type="submit">
